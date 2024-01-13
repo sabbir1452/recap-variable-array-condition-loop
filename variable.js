@@ -1,4 +1,6 @@
 /*
+QUESTION
+
 VARIABLE
 1. What is JavaScript?
 2. How does JS Works?
